@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  font-size: 1.3rem;
+  padding: 4px 40px;
+}
+
+.btn-red{
+  background-color: orangered;
+  color: white;
+}
